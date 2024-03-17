@@ -1,0 +1,11 @@
+Interruptor a1
+Interruptor a2
+Interruptor a3
+
+sala s1
+sala s2
+sala s3
+
+Aciono o a1 e deixo ligado por algum tempo, dai o desligo e me encaminho até a uma das 3 salas após desligar a1 e ligar a2. Caso a lampada esteja ligada o a2 será o correto, se estiver desligada mas mesmo assim quente o correto é o a1. Caso nenhuma das ocorrencias acima, o correto será o a3.
+
+Uma vez que descobri um interruptor correto, eu o excluo e faço o mesmo processo com os restantes.
